@@ -98,7 +98,7 @@ img{
   height: 70vh;
   width: 100%;
 
-  background-image: url(/WN-Moveis/Galeria/fotos/tab-right.png);
+  background-image: url(Galeria/fotos/tab-right.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -167,27 +167,27 @@ img{
 
 
 .ta{
-  background-image: url(/WN-Moveis/Galeria/fotos/Grand.png);
+  background-image: url(Galeria/fotos/Grand.png);
 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .te{
-  background-image: url(/WN-Moveis/Galeria/fotos/Grand\ \(2\).png);
+  background-image: url(Galeria/fotos/Grand\ \(2\).png);
 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
-.to{background-image: url(/WN-Moveis/Galeria/fotos/Grand\ \(4\).png);
+.to{background-image: url(Galeria/fotos/Grand\ \(4\).png);
 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .ti{
-  background-image: url(/WN-Moveis/Galeria/fotos/Grand\ \(3\).png);
+  background-image: url(Galeria/fotos/Grand\ \(3\).png);
 
   background-size: cover;
   background-position: center;
