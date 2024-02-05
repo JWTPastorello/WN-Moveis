@@ -206,20 +206,20 @@ img{
 }
 
 .text-short{
-  font-size: 20px;
+  font-size: 15px;
   margin: 40px;
 }
 
 input{
-  width: 80%;
+  width: 85%;
   height: 35px;
 
-  margin: 20px;
+  margin: 10px;
 
   border-radius: 15px;
 
   border: none;
-  font-size: 30px;
+  font-size: 15px;
   text-align: center;
 }
 
@@ -258,7 +258,16 @@ input{
 
     margin: 0;
   }
-  
+  .text-short{
+    font-size: 35px;
+    font-weight: 300;
+
+    margin: 40px;
+  }
+
+  .input{
+    margin: 10px;
+  }
 }
 
 @media (max-width: 1920px) {
@@ -268,6 +277,16 @@ input{
     font-weight: 900;
 
     margin: 0;
+  }
+  .text-short{
+    font-size: 30px;
+    font-weight: 300;
+
+    margin: 35px;
+  }
+
+  .input{
+    margin: 10px;
   }
   
 }
@@ -280,6 +299,16 @@ input{
 
     margin: 0;
   }
+  .text-short{
+    font-size: 25px;
+    font-weight: 300;
+
+    margin: 30px;
+  }
+
+  .input{
+    margin: 10px;
+  }
   
 }
 
@@ -290,6 +319,17 @@ input{
     font-weight: 900;
 
     margin: 0;
+  }
+
+  .text-short{
+    font-size: 20px;
+    font-weight: 300;
+
+    margin: 25px;
+  }
+
+  .input{
+    margin: 10px;
   }
   
 }
@@ -303,6 +343,17 @@ input{
     margin: 0;
   }
   
+  
+  .text-short{
+    font-size: 15px;
+    font-weight: 300;
+
+    margin: 20px;
+  }
+
+  .input{
+    margin: 10px;
+  }
 }
 
 @media (max-width: 1200px) {
@@ -313,6 +364,17 @@ input{
 
     margin: 0;
   }
+
+  .text-short{
+    font-size: 15px;
+    font-weight: 300;
+
+    margin: 15px;
+  }
+
+  .input{
+    margin: 10px;
+  }
   
 }
 
@@ -320,9 +382,20 @@ input{
 
   .notpad{
     font-size: 20px;
-    font-weight: 900;
+    font-weight: 900px;
 
     margin: 0;
+  }
+
+  .text-short{
+    font-size: 15px;
+    font-weight: 300;
+
+    margin: 10px;
+  }
+
+  .input{
+    margin: 10px;
   }
   
 }
@@ -335,6 +408,17 @@ input{
 
     margin: 0;
   }
+
+  .text-short{
+    font-size: 15px;
+    font-weight: 300;
+
+    margin: 10px;
+  }
+
+  .input{
+    margin: 10px;
+  }
   
 }
 
@@ -345,6 +429,17 @@ input{
     font-weight: 900;
 
     margin: 0;
+  }
+
+  .text-short{
+    font-size: 15px;
+    font-weight: 300;
+
+    margin: 10px;
+  }
+
+  .input{
+    margin: 10px;
   }
   
 }
@@ -357,7 +452,17 @@ input{
 
     margin: 0;
   }
+
+  .text-short{
+    font-size: 10px;
+    font-weight: 300;
+
+    margin: 10px;
+  }
   
+  .input{
+    margin: 10px;
+  }
 }
 
 @media (max-width: 400px) {
@@ -369,4 +474,13 @@ input{
     margin: 0;
   }
   
+  .text-short{
+    font-size: 8px;
+    font-weight: 300;
+
+    margin: 10px;
+  }
+  .input{
+    margin: 10px;
+  }
 }
